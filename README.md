@@ -10,12 +10,14 @@ Natural Language Processing (NLP)
 
 Flask
 
-Chatbot Frameworks: Rasa, Dialogflow
-
 # Key Features
+
 NLP-Enabled Communication: Utilizes advanced NLP techniques to interpret and respond to patient queries with high accuracy.
+
 Flask Backend: Developed with Flask for robust backend support and easy deployment.
+
 Chatbot Framework Integration: Seamlessly integrates with popular chatbot frameworks like Rasa and Dialogflow to facilitate user interaction and response generation.
+
 Patient Care Enhancement: Aims to improve patient care by providing quick access to medical information and support.
 
 # 🚀 How to Run It?
