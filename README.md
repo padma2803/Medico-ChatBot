@@ -5,8 +5,11 @@ MediZen is an NLP-enabled chatbot designed to enhance patient care by providing 
 
 # Technology Used
 Python
+
 Natural Language Processing (NLP)
+
 Flask
+
 Chatbot Frameworks: Rasa, Dialogflow
 
 # Key Features
