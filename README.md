@@ -1,7 +1,19 @@
-# 🧠 Mental-health-Chatbot
-This is an AI-powered bot designed to provide emotional support and assistance to individuals struggling with mental health issues. It can help individuals access mental health resources, and offer guidance and support. With the integration of language translation, this chatbot efficiently breaks language barriers.
 
-The creation of a chatbot capable of language translation holds transformative potential, acting as a catalyst in overcoming language barriers for effective communication and information exchange. Its impact spans diverse sectors, including healthcare, commerce, and governance, offering a versatile solution to bridge linguistic gaps.
+# 🏥 Medico Chatbot - MediZen
+# Overview
+MediZen is an NLP-enabled chatbot designed to enhance patient care by providing accurate and timely medical information. Developed at the Mindacre Centre as part of a final year project, this chatbot leverages cutting-edge natural language processing (NLP) techniques to understand and respond to patient queries effectively.
+
+# Technology Used
+Python
+Natural Language Processing (NLP)
+Flask
+Chatbot Frameworks: Rasa, Dialogflow
+
+# Key Features
+NLP-Enabled Communication: Utilizes advanced NLP techniques to interpret and respond to patient queries with high accuracy.
+Flask Backend: Developed with Flask for robust backend support and easy deployment.
+Chatbot Framework Integration: Seamlessly integrates with popular chatbot frameworks like Rasa and Dialogflow to facilitate user interaction and response generation.
+Patient Care Enhancement: Aims to improve patient care by providing quick access to medical information and support.
 
 # 🚀 How to Run It?
 
