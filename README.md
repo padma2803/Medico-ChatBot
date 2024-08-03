@@ -57,7 +57,7 @@ on Windows system
 pip install  -r requirements.txt
 ```
 
-# 4. Run the 
+# 4. Run the app
 ```
 flask --app app --debug run
 
